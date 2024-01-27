@@ -7660,10 +7660,10 @@ widest-line@^3.1.0:
   dependencies:
     string-width "^4.0.0"
 
-wireit@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/wireit/-/wireit-0.14.0.tgz#8ecb922280d9b3a493bed520900ab458e0f38727"
-  integrity sha512-CwHhyWduARI7zOoyyQvxH6U/5GTy8p6RxTe2LpwIhE4Y8PbaTk0iH8dLkeGMvxETVBkxCgQnF2GfzYKXMSmYSw==
+wireit@^0.14.4:
+  version "0.14.4"
+  resolved "https://registry.yarnpkg.com/wireit/-/wireit-0.14.4.tgz#4c8913a4a74cb15b5381c4b8276c5d71c27f54c5"
+  integrity sha512-WNAXEw2cJs1nSRNJNRcPypARZNumgtsRTJFTNpd6turCA6JZ6cEwl4ZU3C1IHc/3IaXoPu9LdxcI5TBTdD6/pg==
   dependencies:
     braces "^3.0.2"
     chokidar "^3.5.3"
